@@ -235,7 +235,7 @@ wrangler d1 export cfmemos-db --remote --output=backup.sql
 
 Cloudflare Workers Free Plan 包含：每天 10 万次请求、D1 5GB 存储、R2 10GB 存储 + 每月 1000 万次读取。个人使用完全足够。
 
-## License
+## License 
 
 MIT
 
